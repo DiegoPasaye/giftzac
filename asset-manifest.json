@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/giftzac/static/css/main.0a4a64cb.css",
+    "main.css": "/giftzac/static/css/main.b1106ead.css",
     "main.js": "/giftzac/static/js/main.bcf65b91.js",
     "static/media/mujer-triste.svg": "/giftzac/static/media/mujer-triste.8effd74aa5f5538e88b28ca4e537b984.svg",
     "index.html": "/giftzac/index.html",
-    "main.0a4a64cb.css.map": "/giftzac/static/css/main.0a4a64cb.css.map",
+    "main.b1106ead.css.map": "/giftzac/static/css/main.b1106ead.css.map",
     "main.bcf65b91.js.map": "/giftzac/static/js/main.bcf65b91.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a4a64cb.css",
+    "static/css/main.b1106ead.css",
     "static/js/main.bcf65b91.js"
   ]
 }
