@@ -2,7 +2,7 @@
   "name": "regalo",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://DiegoPasaye.github.io/giftzac",
+  "homepage": "https://diegopasaye.github.io/giftzac/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.3.0",

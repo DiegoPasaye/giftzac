@@ -19,3 +19,40 @@
     width: 50%;
     margin-top: 8%;
 }
+
+@media (min-width:400px) and (max-width: 650px){
+    .titulo{
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+    .jovenFoto{
+        width: 100%;
+        height: 100%;
+    }
+    .tema{
+        margin-top: 50%;
+    }
+    .textoDerecho p{
+        font-family: "Arvo";
+        width: 150%;
+        margin-left: -50%;
+    }
+}
+@media (min-width:100px) and (max-width: 399px){
+    .titulo{
+        display: grid;
+        grid-template-columns: 50% 50%;
+    }
+    .jovenFoto{
+        width: 100%;
+        height: 100%;
+    }
+    .tema{
+        margin-top: 50%;
+    }
+    .textoDerecho p{
+        font-family: "Arvo";
+        width: 150%;
+        margin-left: -50%;
+    }
+}
